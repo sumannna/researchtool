@@ -26,6 +26,7 @@ class SettingsDialog(ctk.CTkToplevel):
         self.geometry("520x420")
         self.resizable(False, False)
         self.grab_set()  # モーダル
+        self.protocol("WM_DELETE_WINDOW", self._save)
         self.configure(fg_color=BG_PRIMARY)
         self._entries: dict[str, ctk.CTkEntry] = {}
         self._build()
