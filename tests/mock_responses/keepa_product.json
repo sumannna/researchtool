@@ -1,0 +1,23 @@
+{
+  "asin": "B08XYZ1234",
+  "title": "テスト商品 【お得セット】 500ml×24本 (ブランドA) [Amazon限定]",
+  "csv": [
+    [1609459200, -1],
+    null, null, null, null, null, null, null, null,
+    null, null, null, null, null, null, null, null, null
+  ],
+  "offers": [
+    {"isAmazon": false, "isFBA": true, "sellerId": "SELLER001"}
+  ],
+  "liveOffersOrder": [0],
+  "salesRanks": {"2189494051": [1609459200, 500]},
+  "packageHeight": 100,
+  "packageLength": 200,
+  "packageWidth": 150,
+  "packageWeight": 500,
+  "fbaFees": null,
+  "rootCategory": 2189494051,
+  "categoryTree": [
+    {"catId": 2189494051, "name": "ドラッグストア"}
+  ]
+}

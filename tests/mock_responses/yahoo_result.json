@@ -1,0 +1,34 @@
+{
+  "hits": [
+    {
+      "name": "ブランドA テスト商品 500ml 24本入り",
+      "price": 2350,
+      "url": "https://store.shopping.yahoo.co.jp/shop1/y001.html",
+      "seller": {"name": "Yahooショップ1"}
+    },
+    {
+      "name": "テスト商品 ×24 ブランドA",
+      "price": 2500,
+      "url": "https://store.shopping.yahoo.co.jp/shop2/y002.html",
+      "seller": {"name": "Yahooショップ2"}
+    },
+    {
+      "name": "ブランドA テスト商品 6個セット",
+      "price": 720,
+      "url": "https://store.shopping.yahoo.co.jp/shop3/y003.html",
+      "seller": {"name": "Yahooショップ3"}
+    },
+    {
+      "name": "テスト商品 ブランドA 送料込み",
+      "price": 2600,
+      "url": "https://store.shopping.yahoo.co.jp/shop4/y004.html",
+      "seller": {"name": "Yahooショップ4"}
+    },
+    {
+      "name": "ブランドA テスト商品 業務用",
+      "price": 2800,
+      "url": "https://store.shopping.yahoo.co.jp/shop5/y005.html",
+      "seller": {"name": "Yahooショップ5"}
+    }
+  ]
+}

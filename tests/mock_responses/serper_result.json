@@ -1,0 +1,29 @@
+{
+  "organic": [
+    {
+      "title": "ブランドA テスト商品 500ml×24本 JANコード・バーコード",
+      "snippet": "ブランドA テスト商品のJANコードは 4901234567890 です。ドラッグストアで人気の商品です。",
+      "link": "https://example.com/jan/1"
+    },
+    {
+      "title": "テスト商品 ブランドA バーコード情報",
+      "snippet": "JAN: 4901234567890 / EAN: 4901234567890 取扱店舗一覧",
+      "link": "https://example.com/jan/2"
+    },
+    {
+      "title": "テスト商品 価格比較",
+      "snippet": "テスト商品の最安値を比較。楽天・Amazon・Yahoo価格情報。",
+      "link": "https://example.com/price/3"
+    },
+    {
+      "title": "テスト商品 成分・口コミ",
+      "snippet": "テスト商品のレビューと成分情報。JAN番号情報なし。",
+      "link": "https://example.com/review/4"
+    },
+    {
+      "title": "ブランドA 公式サイト",
+      "snippet": "ブランドA 公式サイトです。製品情報・キャンペーン情報を掲載中。",
+      "link": "https://example-brand.com"
+    }
+  ]
+}

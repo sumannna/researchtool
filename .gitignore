@@ -1,0 +1,12 @@
+config.json
+sedori.db
+app.log*
+__pycache__/
+*.py[cod]
+*.pyo
+dist/
+build/
+*.spec
+.venv/
+venv/
+.claude/
